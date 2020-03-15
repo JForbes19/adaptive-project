@@ -21,7 +21,7 @@ html, body {
 header {
   height: 300px;
   width: 100%;
-  background: #orange;
+  background: orange;
 }
 
 
@@ -65,18 +65,22 @@ footer {
 
   #column-1 {
     background-color:blue ;
+    width: 33.333%;
   }
 
   #column-2 {
     background-color: yellow ;
+      width: 33.333%;
   }
 
   #column-3 {
     background-color: aqua;
+      width: 33.333%;
   }
 
   footer {
     background-color: orange;
+      width: 100%;
   }
   
 }
